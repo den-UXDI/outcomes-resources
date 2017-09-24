@@ -9,7 +9,7 @@
 ![Qualification Requirements](img/qualification.png)
 ![Seeking Status](img/seekingstatus.png)
 
-## About Me ReadMe info:
+<!-- ## About Me ReadMe info:
 
 1. What you did you do before GA?
 2. What kind of support do you think you'll need most from Outomes?
@@ -19,54 +19,43 @@
 6. Describe what kind of company you'd like to work for (i.e. Agency, Startup, etc)
 7. Describe what kind of role you're leaning towards (i.e. Frontend, Backend, etc)
 8. Provide a link to your resume (it should be a file in your repo as well)
-
+ -->
 ## Community
 
-- [Denver Devs Slack Org](https://join.denverdevs.org/)
-- [Denver Devs 'Welcome To Denver' List of Resources](https://github.com/Denver-Devs/welcome-to-denver)
+
 
 ## Meetups
 
-- [Denver Script](https://www.meetup.com/DenverScript/)
 
-## Social Networks for Devs
+
+## Social Networks for UXDs
 
 - [Dribble](https://dribbble.com/)
 - [CodePen](http://codepen.io/)
 - [AngelList](https://angel.co/)
 - [Github](https://github.com/)
-- [Stack Overflow](https://stackoverflow.com/)
 - [Meetup](http://www.meetup.com/)
 
 ## Twitter Accounts to Follow
 
-- [The Practical Dev](https://twitter.com/ThePracticalDev)
-- [Chris Coyier](https://twitter.com/chriscoyier)
-- [Matt Webb](https://twitter.com/creatify_me)
-- [Paul Irish](https://twitter.com/paul_irish)
-- [Eric Meyer](https://twitter.com/meyerweb)
+
 
 ## Blogs/Article Sites
 
-- [Signal V. Noise](https://m.signalvnoise.com/)
-- [Dev.to](https://dev.to/)
-- [Smashing Magazine](https://www.smashingmagazine.com/)
-- [Frontend Front](https://frontendfront.com/)
-- [Javascript Scene](https://medium.com/javascript-scene)
-- [Code Newbie](http://www.codenewbie.org/)
-- [ThoughtBot](https://robots.thoughtbot.com/)
-- [Toptal](https://www.toptal.com/blog)
+
 
 ## Podcasts
 
-- [Developer Tea](https://spec.fm/podcasts/developer-tea)
 - [ReplyAll](https://gimletmedia.com/reply-all/)
-- [Starthere.fm](http://starthere.fm/)
-- [Does Not Compute](https://spec.fm/podcasts/does-not-compute)
 - [99% Invisible](http://99percentinvisible.org/)
-- [Changelog](https://changelog.com/)
-- [JS Jabber](https://devchat.tv/js-jabber)
-- [Code Newbie](http://www.codenewbie.org/podcast)
+- [Design Details](https://spec.fm/podcasts/design-details)
+
+## Books
+
+-[Design Is a Job](https://abookapart.com/products/design-is-a-job)
+-[The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+-[Don't Make Me Think](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=WK7CJT0FHGPCGB4ZY3E3)
+
 
 ## Job Search / Market Research
 
@@ -90,48 +79,8 @@
 
 ## Job Roles
 
-- Dev Skill Distribution Chart:
 
-![](img/DevChart.png)
-
-- UX Developer (Sketch/Photoshop, HTML, CSS, some JS)
-- Frontend Developer (HTML, CSS, light JS)
-- Frontend Engineer (HTML, CSS, heavy JS)
-- Backend Developer (heavy JS, PHP, Ruby)
-- Web Developer (Full Stack)
-- Techinical Lead (HTML, CSS, JS, architecture & management)
-- Creative Technologist ("unicorn" - Design, Frontend and Backend proficiency)
-
-## Full List of Technoligies Learned:
-
-- HTML
-- CSS3 (SASS, animations, Box Model, Flexbox, Bootstrap)
-- JS (ES6, DOM Manipulation, OOP)
-- jQuery (browser storage, browser games)
-- AJAX
-- Node (running local servers, performing basic run-time functions)
-- APIs (creating them, working with 3rd party APIs)
-- Mocha Tests
-- Express (route-building)
-- Mongo DB
-- Mongoose
-- Full Stack App (JS + Node + Express + Mongoose + Mongo)
-- UX Crashcourse (User Research, Sketch, Photoshop)
-- Gulp
-- MVC (concept)
-- Passport (Auth + Security)
-- Angular (1+2)
-- Typescript
-- Full Stack App - MEAN stack (Mongo + Express + Angular + Node)
-- SQL
-- Postgres
-- Full Stack App - SEAN stack (SQL + Express + Angular + Node)
-- React
-- Redux
-- PHP
-- Wordpress
-- Ruby
-- Ruby on Rails
+## Full List of Skills/Technology Learned:
 
 
 ## Startup Incubators
@@ -160,4 +109,3 @@
 - [Screw Finding Your Passion](http://markmanson.net/passion)
 - [5 People Every Creative Needs In Their Life](https://blog.musicbed.com/articles/the-5-people-every-creative-needs-in-life/177?utm_campaign=mb-blog&utm_medium=post&utm_source=facebook&utm_content=five-people-creative)
 - [How To Ask For Advice](https://medium.com/art-of-practicality/how-to-study-people-you-admire-and-ask-for-their-advice-ef5d1c821763#.qqgfmlmsd)
-- [Why I’m Thankful for JS Fatigue.](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f#.ue2m3s1xi)
