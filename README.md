@@ -26,7 +26,18 @@
 
 ## Meetups
 
+- [Ladies that UX](https://www.meetup.com/Ladies-that-UX-Denver/)  
+- [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
+- [UX Bookclub Denver](https://www.meetup.com/UX-Bookclub-Denver/)
+- [UX Happy Hour](https://www.meetup.com/UX-Happy-Hour-in-Denver/)
+- [Refresh Denver](https://www.meetup.com/refreshdenver/)
+- [IxDA Colorado](https://www.meetup.com/IxDA-Colorado-Interaction-Design/)
+- [Ignite Denver](http://ignitedenver.org)
 
+## Slack Orgs
+
+- [Ladies that UX](http://ltuxdenver.slack.com)
+- [Denver UX](http://denveruxers.com/)
 
 ## Social Networks for UXDs
 
