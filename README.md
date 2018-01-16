@@ -1,9 +1,5 @@
 # Outcome Resources
 
-## Book Time with Becca
-
-[Here!](https://calendly.com/becca-zukowski)
-
 ## Qualification Requirements:
 
 ![Qualification Requirements](img/qualification.png)
@@ -20,8 +16,6 @@
 7. Describe what kind of role you're leaning towards (i.e. Frontend, Backend, etc)
 8. Provide a link to your resume (it should be a file in your repo as well)
  -->
-## Community
-
 
 
 ## Meetups
@@ -93,6 +87,30 @@
 
 
 ## Full List of Skills/Technology Learned:
+
+- UX Reasearch
+- Personas/Scenarios
+- User Flows
+- Journey Maps
+- Usability Testing
+- Rapid Prototyping
+- Critique & Feedback
+- Business/Competitive Analysis
+- Interaction Design
+- Site Maps
+- Wireframing
+- Project Planning/Management
+- Mobile Design
+- Responsive Design
+- Content Strategy
+- Typography
+- Color Theory
+- Styleguides & Systems
+- Apple HIG & Android Material Design
+- Annotation & Documentation Delivery
+- Data Visualization
+- Gamification
+- HTML/CSS/Bootstrap
 
 
 ## Startup Incubators
