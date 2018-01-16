@@ -88,6 +88,7 @@
 
 ## Full List of Skills/Technology Learned:
 
+- Sketch
 - UX Reasearch
 - Personas/Scenarios
 - User Flows
